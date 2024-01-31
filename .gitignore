@@ -1,0 +1,3 @@
+venv/
+data/input
+data/output/processed_telecom_offer_data.csv
